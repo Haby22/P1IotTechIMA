@@ -16,16 +16,16 @@
 
 // Insert your network credentials
 #define WIFI_SSID "SALLE_MACHINE_SP"
-#define WIFI_PASSWORD "083EDk@BbG"
+#define WIFI_PASSWORD "xxxxxxx"
 
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyD_KJEpsO_Y8nBe6nB6m1c5FAGDc7hfR9g"
+#define API_KEY "AIzaSyDxxxxxxxxxxxxxx"
 // Insert Authorized Email and Corresponding Password
-#define USER_EMAIL "yayehaby2000@gmail.com"
-#define USER_PASSWORD "abiba2000"
+#define USER_EMAIL "yayehabyxxxxxxxxxxxxxxx"
+#define USER_PASSWORD "abibaxxxxxxxxxxx"
 
 // Insert RTDB URLefine the RTDB URL
-#define DATABASE_URL "https://p1iottechima-default-rtdb.europe-west1.firebasedatabase.app/"
+#define DATABASE_URL "https://xxxxxxxxxxxxxxxxxxxxxxxxxx"
 // Define Firebase objects
 FirebaseData stream;
 FirebaseData fbdo;
